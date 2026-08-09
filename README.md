@@ -4,7 +4,7 @@
 This interactive Power BI dashboard offers end-to-end insights into **Motorola Mobile Sales Performance**. It enables data-driven decision-making by tracking Key Performance Indicators (KPIs) such as revenue, sales volume, customer ratings, and transaction trends across regions and mobile models.
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](dashboard.pbix.png)
 
 ---
 
