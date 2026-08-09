@@ -19,7 +19,7 @@ This interactive Power BI dashboard offers end-to-end insights into **Motorola M
 ## 🛠️ Tools & Technologies
 * **Power BI Desktop:** Custom slicer formatting, DAX measures, visual layouts.
 * **Power Query:** Data cleaning, transformations, and schema preparation.
-* **Dataset:** Excel / CSV file containing mobile sales data.
+* **Dataset:** Motorola Sales Dataset included in this repository.
 
 ---
 
